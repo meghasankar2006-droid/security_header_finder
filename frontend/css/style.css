@@ -3,7 +3,6 @@
    Aesthetic: Cybersecurity terminal meets modern SaaS
    Font: Space Mono (code feel) + Sora (readable UI)
 ═══════════════════════════════════════════════════════ */
-
 /* ── CSS Variables (Dark Theme Default) ── */
 [data-theme="dark"] {
   --bg-primary: #0a0c10;
