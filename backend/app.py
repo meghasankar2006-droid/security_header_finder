@@ -8,8 +8,6 @@ from flask_cors import CORS
 import requests
 import json
 import os
-
-
 import time
 import hashlib
 import uuid
